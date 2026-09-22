@@ -7,17 +7,17 @@
 
 
 
-## 👩‍💻 About Me
+##  About Me
 
-- 📍 Based in **Budapest, Hungary**
-- 🎯 Focused on **Manual Testing, API Testing, and Test Automation basics**
-- 🛠️ Actively creating comprehensive test documentation, executing exploratory testing, and writing test scripts
-- 💼 Open for **Junior QA Engineer / QA Intern** opportunities (Remote / On-site)
-- 📫 Reach me via **[LinkedIn](https://www.linkedin.com/in/maria-motovilova-a4a22335a/)**
+-  Based in **Budapest, Hungary**
+-  Focused on **Manual Testing, API Testing, and Test Automation basics**
+-  Actively creating comprehensive test documentation, executing exploratory testing, and writing test scripts
+-  Open for **Junior QA Engineer / QA Intern** opportunities (Remote / On-site)
+-  Reach me via **[LinkedIn](https://www.linkedin.com/in/maria-motovilova-a4a22335a/)**
 
 
 
-## 🛠️ QA & Testing Toolstack
+##  QA & Testing Toolstack
 
 ### **Testing & Automation**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -33,9 +33,9 @@
 
 
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariamotovilova25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamotovilova25&layout=compact&theme=tokyonight&hide=html,css"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=mariamotovilova25&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mariamotovilova25&layout=compact&theme=tokyonight&hide=html,css" />
 </p>
