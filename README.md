@@ -35,7 +35,9 @@
 
 ##  GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=mariamotovilova25&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mariamotovilova25&layout=compact&theme=tokyonight&hide=html,css" />
-</p>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mariamotovilova25&theme=tokyonight&hide_border=true" />
+</p> 
